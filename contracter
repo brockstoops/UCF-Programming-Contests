@@ -11,7 +11,7 @@ Due to your superior education, you may receive more offers for jobs than you ca
 the number of days you are willing to work in the year, write a program to determine the maximal
 amount of money you can make if you accept the appropriate set of jobs.
 
-The Input
+The Input/n
 The first line of the input file will contain a single positive integer, c (c ≤ 1000), 
 representing the number of input cases to analyze. The first line of each input case will
 have two space separated positive integers, n (n ≤ 20), and d (d ≤ 365), representing the 
@@ -22,9 +22,9 @@ payment, respectively, you would receive if you accepted the ith job. The Output
 case, output a single integer representing the maximal amount of money in dollars you can make
 by taking a set of the possible jobs that you can finish within the number of days given (or fewer days).
 
-Sample Input
-2 
-2 5 
+Sample Input/n
+2 /n
+2 5 /n
 3 10000 
 4 8000 
 3 100 
